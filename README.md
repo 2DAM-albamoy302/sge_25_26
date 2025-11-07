@@ -1,46 +1,46 @@
-# OlivaTrack
+# OlivaTrack 
+**Software de gestión agrícola especializado en la trazabilidad del olivar.**
 
-**OlivaTrack** es un sistema de gestión para cooperativas agrícolas andaluzas centrado en la digitalización de la recogida de aceitunas y la trazabilidad del producto.
+OlivaTrack permite registrar parcelas, tratamientos, control de cosechas, seguimiento de producción y análisis de rendimiento, todo desde una interfaz sencilla y adaptada a pequeñas y medianas explotaciones.
 
-## Funcionalidades principales
-
-- **Módulo móvil** para registrar la entrada de aceitunas por parcela y cooperativista.
-- **Panel web de administración** para gestionar socios, lotes y períodos de campaña.
-- **Informes avanzados** de producción, rendimiento y trazabilidad.
-
-## Modelo de negocio
-
-OlivaTrack se distribuye como **software libre**, pero el modelo de ingresos se basa en:
-
-- Instalación y despliegue
-- Personalización de módulos
-- Mantenimiento técnico
-- Formación y soporte a cooperativas
+---
 
 ## Licencia
 
-Este proyecto está licenciado bajo **AGPLv3**.  
-Esto significa que:
+Este proyecto se distribuye bajo la **AGPL-3.0 License**.
 
-- Puedes usar y modificar el software libremente.
-- Si lo mejoras y lo usas públicamente (por ejemplo, como servicio web), estás obligado a **publicar las mejoras**.
+He elegido esta licencia porque garantiza que cualquier mejora o modificación del software que se haga pública a través de un servicio en red también debe quedar disponible para la comunidad. Esto mantiene el espíritu abierto del proyecto y evita la apropiación privativa.
 
-Ver el archivo `LICENSE` para más detalles.
+---
 
-## Valores y propósito
+## Modelo de negocio
 
-OlivaTrack nace con la intención de:
-- Modernizar el sector agrícola sin romper la tradición cooperativa.
-- Promover la soberanía tecnológica en el mundo rural.
-- Garantizar transparencia en la trazabilidad del alimento.
+Aunque el software es libre, ofrezco servicios adicionales:
 
-## Contacto / Servicios
+| Servicio | Descripción | Forma de ingreso |
+|---------|-------------|----------------|
+| Instalación y despliegue | Configuración en local o nube | Pago único |
+| Hosting y mantenimiento | Monitorización, copias, actualizaciones | Suscripción mensual |
+| Personalización | Adaptaciones a cada finca o cooperativa | Presupuesto por horas |
+| Formación | Capacitación para trabajadores y gestores | Sesiones formativas |
 
-Si tu cooperativa está interesada en:
-- Implantación
-- Soporte
-- Hosting
-- Formación
-- Desarrollo de nuevos módulos
+Esto permite sostener el proyecto económicamente sin cerrar el código.
 
-Puedes contactarme en: **amoysua0106@g.educaand.es**
+---
+
+## Características principales
+- Gestión de parcelas y propietarios
+- Registro de tratamientos y operaciones de campo
+- Seguimiento de recolección y rendimiento
+- Informes exportables en PDF/Excel
+- Preparado para cooperativas y productores independientes
+
+---
+
+## Logotipo
+![Logo de OlivaTrack](docs/logo.png)
+
+---
+
+## 🟢 Estado del proyecto
+Versión inicial. En desarrollo.
