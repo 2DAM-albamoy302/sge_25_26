@@ -43,4 +43,4 @@ Si tu cooperativa está interesada en:
 - Formación
 - Desarrollo de nuevos módulos
 
-Puedes contactarme en: **tuemail@ejemplo.com**
+Puedes contactarme en: **amoysua0106@g.educaand.es**
